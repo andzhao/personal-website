@@ -12,9 +12,9 @@ output:
 
 ## Hello!
 
-I'm a young researcher currently working at [Pollara Strategic Insights](www.pollara.com). I am interested in political behaviour, particularly how marginalized people participate (or *don't* participate) politically. My senior thesis focused on how immigrants participate and incorporate upon moving to a new country.
+I'm a young researcher currently working at [Pollara Strategic Insights](https://www.pollara.com/). I am interested in political behaviour, particularly how marginalized people participate (or *don't* participate) politically. My senior thesis focused on how immigrants participate and incorporate upon moving to a new country.
 
-Outside of work, I love cooking up some mean Chinese food, playing badminton with my friends, and running [SUNIA](www.sunia.ca), an educational summer camp for high school students. 
+Outside of work, I love cooking up some mean Chinese food, playing badminton with my friends, and running [SUNIA](https://www.sunia.ca/), an educational summer camp for high school students. 
 
 I am grateful to live and work in Amiskwaciwâskahikan (Edmonton) with my dog, Hector. My pronouns are he/him.
 
