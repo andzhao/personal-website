@@ -3,7 +3,7 @@ title: "Andrew Zhao"
 image: "IMG_8482.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/andzhao"
+    url: "https://www.linkedin.com/in/andzhao/"
   - label: Send me an email!
     url: "mailto:drew.zhao@mail.utoronto.ca"
 output:
