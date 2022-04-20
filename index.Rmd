@@ -2,9 +2,11 @@
 title: "Andrew Zhao"
 image: "IMG_8482.jpg"
 links:
-  - label: LinkedIn
+  - label: my CV
+    url: "zhao_cv_apr_22.pdf"
+  - label: linkedin
     url: "https://www.linkedin.com/in/andzhao/"
-  - label: Send me an email!
+  - label: send me an email!
     url: "mailto:drew.zhao@mail.utoronto.ca"
 output:
   postcards::solana
@@ -12,7 +14,7 @@ output:
 
 ## Hello!
 
-I'm a young researcher currently working at [Pollara Strategic Insights](https://www.pollara.com/). I am interested in political behaviour, particularly how marginalized people participate (or *don't* participate) politically. My senior thesis focused on how immigrants participate and incorporate upon moving to a new country.
+I'm a young researcher currently working at [Pollara Strategic Insights](https://www.pollara.com/). I am interested in political behaviour, particularly how marginalized people participate (or *don't* participate) politically. My senior thesis focused on how immigrants participate and incorporate upon moving to the United States.
 
 Outside of work, I love cooking up some mean Chinese food, playing badminton with my friends, and running [SUNIA](https://www.sunia.ca/), an educational summer camp for high school students. 
 
@@ -31,7 +33,7 @@ Origins on Immigrant Political Incorporation* (supervised by Kenichi Ariga)
 
 **Pollara Strategic Insights** | Research Manager and Director, Advanced Analytics | Mar 2021--
 
-**Forum Research** | Jr. Research Analyst | Oct 2019--Feb 2021
+**Forum Research** | Research Analyst | Oct 2019--Feb 2021
 
 **University of Toronto** | Research Assistant to Professor Neil Nevitte | Jan 2019--Jul 2020
 
