@@ -2,8 +2,8 @@
 title: "Andrew Zhao"
 image: "IMG_8482.jpg"
 links:
-  - label: my CV
-    url: "zhao_cv_apr_22.pdf"
+  - label: cv
+    url: "zhao_cv_nov_22.pdf"
   - label: linkedin
     url: "https://www.linkedin.com/in/andzhao/"
   - label: send me an email!
@@ -14,9 +14,9 @@ output:
 
 ## Hello!
 
-I'm a young researcher currently working at [Pollara Strategic Insights](https://www.pollara.com/). I am interested in political behaviour, particularly how marginalized people participate (or *don't* participate) politically. My senior thesis focused on how immigrants participate and incorporate upon moving to the United States.
+I'm a young researcher currently working at [Pollara Strategic Insights](https://www.pollara.com/). I am interested in immigration, race, and political participation. My senior thesis focused on how immigrants integrate politically upon moving to the United States.
 
-Outside of work, I love cooking up some mean Chinese food, playing badminton with my friends, and running [SUNIA](https://www.sunia.ca/), an educational summer camp for high school students. 
+Outside of work, I love playing rec ball hockey, preserving my grandpa's Chinese recipes, and running [SUNIA](https://www.sunia.ca/), an educational summer camp for high school students. 
 
 I am grateful to live and work in Amiskwaciwâskahikan (Edmonton) with my dog, Hector. My pronouns are he/him.
 
@@ -50,7 +50,7 @@ Origins on Immigrant Political Incorporation* (supervised by Kenichi Ariga)
 
 ## Selected Awards
 
-**Suzanne and Edwin Goodman Prize** | Top graduate in the Political Science Specialist program.
+**Suzanne and Edwin Goodman Prize** | Received as the graduate in the Political Science Specialist program.
 
 **Wasser Leadership Scholarship** | For "sustained leadership contributions" over 4 years to Innis College.
 
