@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Andrew Zhao"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+  page-footer:
+    center:
+      - icon: twitter
+        href: https://twitter.com/AndrewYZhao
+      - icon: envelope-fill
+        href: mailto:andrew.zhao@berkeley.edu
+    border: false
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: false
+    page-layout: full
+
+editor: visual
+
+email-obfuscation: javascript
