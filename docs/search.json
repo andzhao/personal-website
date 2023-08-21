@@ -2,16 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Andrew Zhao",
+    "title": "Welcome! 欢迎！",
     "section": "",
-    "text": "Welcome! 欢迎！\nMy name is Andrew Zhao and I am an incoming PhD student in The Charles and Louise Travers Department of Political Science at UC Berkeley. I am broadly interested in race, ethnicity, and politics (REP), immigration, and political participation.\n\n\n\nDinosaur Provincial Park, Alberta"
+    "text": "Welcome! 欢迎！\nMy name is Andrew Zhao and I am a PhD student in Travers Department of Political Science at UC Berkeley. I am broadly interested in race, ethnicity, and politics (REP), immigration, and political participation.\n\n\n\nDinosaur Provincial Park, Alberta"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am an incoming PhD student in The Charles and Louise Travers Department of Political Science at UC Berkeley, where I will also be a Citrin Fellow. I earned my Honours Bachelor of Arts from the University of Toronto.\nI am broadly interested in the interplay between race & ethnicity, immigration, and political participation. Specifically, I am interested in understanding barriers to participation and developing interventions to overcome those barriers.1\nI grew up on the prairies in Treaty 7 territory. The picture here is of me and my dog Hector after taking a dip in the Red River, nestled in the badlands."
+    "text": "I am a PhD student in The Charles and Louise Travers Department of Political Science at UC Berkeley, where I am also a Citrin Fellow. I earned my Honours Bachelor of Arts from the University of Toronto.\nI am broadly interested in the interplay between race & ethnicity, immigration, and political participation. Specifically, I am interested in understanding barriers to participation and developing interventions to overcome those barriers.1\nI grew up on the prairies in Treaty 7 territory. The picture here is of me and my dog Hector after taking a dip in the Red River, nestled in the badlands."
   },
   {
     "objectID": "about.html#education",
@@ -47,5 +47,12 @@
     "title": "Andrew Zhao",
     "section": "Experience",
     "text": "Experience\nResearch Manager & Director, Advanced Analytics | Pollara Strategic Insights\nResearch Analyst | Forum Research"
+  },
+  {
+    "objectID": "about.html#footnotes",
+    "href": "about.html#footnotes",
+    "title": "About",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nWith the usual caveat that most students’ interests shift as they progress through their PhD program.↩︎"
   }
 ]
