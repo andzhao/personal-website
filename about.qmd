@@ -7,7 +7,11 @@ about:
 
 I am a PhD student in [The Charles and Louise Travers Department of Political Science](https://polisci.berkeley.edu/) at UC Berkeley, where I am also a [Citrin Fellow](https://citrincenter.berkeley.edu/graduate-programs/).
 
-I am broadly interested in the interplay between race & ethnicity, immigration, and political participation. Specifically, I am interested in understanding barriers to participation among Asian Americans and Asian Canadians, with a goal of developing interventions to overcome those barriers.[^1]
+I am broadly interested in the interplay between race & ethnicity, immigration, and political participation. Specifically, I am interested in:
+
+- How immigrants' pre-migration experiences shape post-migration participation and integration
+- Barriers to participation experienced by Asian citizens in the US and Canada 
+- Experimental methods[^1]
 
 [^1]: With the usual caveat that most students' interests shift as they progress through their PhD program.
 
