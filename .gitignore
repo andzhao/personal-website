@@ -6,6 +6,5 @@
 
 /.quarto/
 .Rhistory
-.Rproj.user/986D722/sources/prop/INDEX
-.Rproj.user/shared/notebooks/paths
+.Rproj.user
 .DS_Store
